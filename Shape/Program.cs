@@ -6,7 +6,7 @@ namespace Shape
     {
         static void Main(string[] args)
         {
-
+            //comment
             Shape1 shape1 = new Shape1();
             shape1.CalculatePerimetr();
             Circle circle = new Circle();
